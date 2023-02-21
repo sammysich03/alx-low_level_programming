@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - entring point 
- * Return: always 0
- */
+*main - entring point 
+*Return: always 0
+*/
 
 int main(void)
 {
