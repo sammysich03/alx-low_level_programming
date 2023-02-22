@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*main - entring point 
+*main - entring point
 *Return: always 0
 */
 
